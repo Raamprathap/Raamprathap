@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamprathap&label=Profile%20views&color=0e75b6&style=flat" alt="raamprathap" /> </p>
 
-- 🔭 I’m currently working on [Bird-Species-Classifier](https://github.com/Raamprathap/Bird-Species-Classifier)
-
 - 🌱 I’m currently learning **Bootstrap, Tailwind and Node.js**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development projects**
