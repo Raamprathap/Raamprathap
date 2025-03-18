@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raamprathap&label=Profile%20views&color=0e75b6&style=flat" alt="raamprathap" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind and Node.js**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development projects**
 
