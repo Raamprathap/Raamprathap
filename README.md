@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development projects**
 
-- 👨‍💻 All of my projects are available at(Under Progress) [https://raamprathap.github.io/Portfolio/](https://raamprathap.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://raamprathap.github.io/Portfolio/)
 
 - 📫 How to reach me **raamprathap17242@gmail.com**
 
