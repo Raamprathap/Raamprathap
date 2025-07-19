@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning and Web Development projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://raam-prathap.vercel.app/)
+- 👨‍💻 Wanna know more about me have a look at my [Portfolio](https://raam-prathap.vercel.app/)
 
 - 📫 How to reach me **raamprathap17242@gmail.com**
 
