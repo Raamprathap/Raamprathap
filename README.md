@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **raamprathap17242@gmail.com**
 
-- 📄 Know about my experiences [https://raamprathap.github.io/Portfolio/resume.html](https://raamprathap.github.io/Portfolio/resume.html)
+- 📄 Know about my experiences [Resume](https://raam-prathap.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
